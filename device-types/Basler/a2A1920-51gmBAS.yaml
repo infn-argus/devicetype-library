@@ -1,0 +1,20 @@
+---
+manufacturer: Basler
+model: a2A1920-51gmBAS
+slug: basler-a2a1920-51gmbas
+u_height: 0
+is_full_depth: false
+interfaces:
+  - name: GigE
+    type: 1000base-t
+    mgmt_only: false
+    poe_mode: pd
+    poe_type: type1-ieee802.3af
+power-ports:
+  - name: I/O connector
+    type: other
+    description: 12-24 VDC
+comments: >
+  Basler ace 2 Basic GigE area scan camera, mono, Sony IMX392 global shutter CMOS, 1920 x 1200 at 51 fps.
+  Powered over Ethernet (IEEE 802.3af) or at 12-24 VDC through the I/O connector.
+  [Basler documentation](https://docs.baslerweb.com/a2a1920-51gmbas)

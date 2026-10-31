@@ -1,0 +1,20 @@
+---
+manufacturer: Basler
+model: scA640-70gm
+slug: basler-sca640-70gm
+u_height: 0
+is_full_depth: false
+weight: 160
+weight_unit: g
+interfaces:
+  - name: GigE
+    type: 1000base-t
+    mgmt_only: false
+power-ports:
+  - name: Power
+    type: other
+    description: 12-24 VDC
+comments: >
+  Basler scout GigE area scan camera, mono, Sony ICX424 progressive scan CCD, 659 x 494 at 70 fps.
+  Weight is for the standard housing (typical).
+  [Basler scout GigE user's manual, AW00011919000, version 19](https://assets-ctf.baslerweb.com/dg51pdwahxgw/7uBPu2c1Uaf4pfsLl6v8Be/a11f70b33cc83b9a70ada92f25ec8c78/AW00011919000_scout_GigE_User_Manual.pdf)
